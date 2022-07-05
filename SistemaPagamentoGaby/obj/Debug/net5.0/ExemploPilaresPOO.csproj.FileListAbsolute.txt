@@ -1,0 +1,64 @@
+C:\Users\adriano\Desktop\git-aulas\aula18.06\Class.Poo\ExemploPilaresPOO1\bin\Debug\net5.0\ExemploPilaresPOO.exe
+C:\Users\adriano\Desktop\git-aulas\aula18.06\Class.Poo\ExemploPilaresPOO1\bin\Debug\net5.0\ExemploPilaresPOO.deps.json
+C:\Users\adriano\Desktop\git-aulas\aula18.06\Class.Poo\ExemploPilaresPOO1\bin\Debug\net5.0\ExemploPilaresPOO.runtimeconfig.json
+C:\Users\adriano\Desktop\git-aulas\aula18.06\Class.Poo\ExemploPilaresPOO1\bin\Debug\net5.0\ExemploPilaresPOO.runtimeconfig.dev.json
+C:\Users\adriano\Desktop\git-aulas\aula18.06\Class.Poo\ExemploPilaresPOO1\bin\Debug\net5.0\ExemploPilaresPOO.dll
+C:\Users\adriano\Desktop\git-aulas\aula18.06\Class.Poo\ExemploPilaresPOO1\bin\Debug\net5.0\ref\ExemploPilaresPOO.dll
+C:\Users\adriano\Desktop\git-aulas\aula18.06\Class.Poo\ExemploPilaresPOO1\bin\Debug\net5.0\ExemploPilaresPOO.pdb
+C:\Users\adriano\Desktop\git-aulas\aula18.06\Class.Poo\ExemploPilaresPOO1\obj\Debug\net5.0\ExemploPilaresPOO.csproj.AssemblyReference.cache
+C:\Users\adriano\Desktop\git-aulas\aula18.06\Class.Poo\ExemploPilaresPOO1\obj\Debug\net5.0\ExemploPilaresPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriano\Desktop\git-aulas\aula18.06\Class.Poo\ExemploPilaresPOO1\obj\Debug\net5.0\ExemploPilaresPOO.AssemblyInfoInputs.cache
+C:\Users\adriano\Desktop\git-aulas\aula18.06\Class.Poo\ExemploPilaresPOO1\obj\Debug\net5.0\ExemploPilaresPOO.AssemblyInfo.cs
+C:\Users\adriano\Desktop\git-aulas\aula18.06\Class.Poo\ExemploPilaresPOO1\obj\Debug\net5.0\ExemploPilaresPOO.csproj.CoreCompileInputs.cache
+C:\Users\adriano\Desktop\git-aulas\aula18.06\Class.Poo\ExemploPilaresPOO1\obj\Debug\net5.0\ExemploPilaresPOO.dll
+C:\Users\adriano\Desktop\git-aulas\aula18.06\Class.Poo\ExemploPilaresPOO1\obj\Debug\net5.0\ref\ExemploPilaresPOO.dll
+C:\Users\adriano\Desktop\git-aulas\aula18.06\Class.Poo\ExemploPilaresPOO1\obj\Debug\net5.0\ExemploPilaresPOO.pdb
+C:\Users\adriano\Desktop\git-aulas\aula18.06\Class.Poo\ExemploPilaresPOO1\obj\Debug\net5.0\ExemploPilaresPOO.genruntimeconfig.cache
+C:\Users\adriano\Desktop\Class.Poo\ExemploPilaresPOO1\bin\Debug\net5.0\ExemploPilaresPOO.exe
+C:\Users\adriano\Desktop\Class.Poo\ExemploPilaresPOO1\bin\Debug\net5.0\ExemploPilaresPOO.deps.json
+C:\Users\adriano\Desktop\Class.Poo\ExemploPilaresPOO1\bin\Debug\net5.0\ExemploPilaresPOO.runtimeconfig.json
+C:\Users\adriano\Desktop\Class.Poo\ExemploPilaresPOO1\bin\Debug\net5.0\ExemploPilaresPOO.runtimeconfig.dev.json
+C:\Users\adriano\Desktop\Class.Poo\ExemploPilaresPOO1\bin\Debug\net5.0\ExemploPilaresPOO.dll
+C:\Users\adriano\Desktop\Class.Poo\ExemploPilaresPOO1\bin\Debug\net5.0\ref\ExemploPilaresPOO.dll
+C:\Users\adriano\Desktop\Class.Poo\ExemploPilaresPOO1\bin\Debug\net5.0\ExemploPilaresPOO.pdb
+C:\Users\adriano\Desktop\Class.Poo\ExemploPilaresPOO1\obj\Debug\net5.0\ExemploPilaresPOO.csproj.AssemblyReference.cache
+C:\Users\adriano\Desktop\Class.Poo\ExemploPilaresPOO1\obj\Debug\net5.0\ExemploPilaresPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriano\Desktop\Class.Poo\ExemploPilaresPOO1\obj\Debug\net5.0\ExemploPilaresPOO.AssemblyInfoInputs.cache
+C:\Users\adriano\Desktop\Class.Poo\ExemploPilaresPOO1\obj\Debug\net5.0\ExemploPilaresPOO.AssemblyInfo.cs
+C:\Users\adriano\Desktop\Class.Poo\ExemploPilaresPOO1\obj\Debug\net5.0\ExemploPilaresPOO.csproj.CoreCompileInputs.cache
+C:\Users\adriano\Desktop\Class.Poo\ExemploPilaresPOO1\obj\Debug\net5.0\ExemploPilaresPOO.dll
+C:\Users\adriano\Desktop\Class.Poo\ExemploPilaresPOO1\obj\Debug\net5.0\ref\ExemploPilaresPOO.dll
+C:\Users\adriano\Desktop\Class.Poo\ExemploPilaresPOO1\obj\Debug\net5.0\ExemploPilaresPOO.pdb
+C:\Users\adriano\Desktop\Class.Poo\ExemploPilaresPOO1\obj\Debug\net5.0\ExemploPilaresPOO.genruntimeconfig.cache
+C:\Users\adriano\Desktop\ExemploPilaresPOO\bin\Debug\net5.0\ExemploPilaresPOO.exe
+C:\Users\adriano\Desktop\ExemploPilaresPOO\bin\Debug\net5.0\ExemploPilaresPOO.deps.json
+C:\Users\adriano\Desktop\ExemploPilaresPOO\bin\Debug\net5.0\ExemploPilaresPOO.runtimeconfig.json
+C:\Users\adriano\Desktop\ExemploPilaresPOO\bin\Debug\net5.0\ExemploPilaresPOO.runtimeconfig.dev.json
+C:\Users\adriano\Desktop\ExemploPilaresPOO\bin\Debug\net5.0\ExemploPilaresPOO.dll
+C:\Users\adriano\Desktop\ExemploPilaresPOO\bin\Debug\net5.0\ref\ExemploPilaresPOO.dll
+C:\Users\adriano\Desktop\ExemploPilaresPOO\bin\Debug\net5.0\ExemploPilaresPOO.pdb
+C:\Users\adriano\Desktop\ExemploPilaresPOO\obj\Debug\net5.0\ExemploPilaresPOO.csproj.AssemblyReference.cache
+C:\Users\adriano\Desktop\ExemploPilaresPOO\obj\Debug\net5.0\ExemploPilaresPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adriano\Desktop\ExemploPilaresPOO\obj\Debug\net5.0\ExemploPilaresPOO.AssemblyInfoInputs.cache
+C:\Users\adriano\Desktop\ExemploPilaresPOO\obj\Debug\net5.0\ExemploPilaresPOO.AssemblyInfo.cs
+C:\Users\adriano\Desktop\ExemploPilaresPOO\obj\Debug\net5.0\ExemploPilaresPOO.csproj.CoreCompileInputs.cache
+C:\Users\adriano\Desktop\ExemploPilaresPOO\obj\Debug\net5.0\ExemploPilaresPOO.dll
+C:\Users\adriano\Desktop\ExemploPilaresPOO\obj\Debug\net5.0\ref\ExemploPilaresPOO.dll
+C:\Users\adriano\Desktop\ExemploPilaresPOO\obj\Debug\net5.0\ExemploPilaresPOO.pdb
+C:\Users\adriano\Desktop\ExemploPilaresPOO\obj\Debug\net5.0\ExemploPilaresPOO.genruntimeconfig.cache
+C:\Users\Mieczyslawa Neufeld\Downloads\ExemploPOO\bin\Debug\net5.0\ExemploPilaresPOO.exe
+C:\Users\Mieczyslawa Neufeld\Downloads\ExemploPOO\bin\Debug\net5.0\ExemploPilaresPOO.deps.json
+C:\Users\Mieczyslawa Neufeld\Downloads\ExemploPOO\bin\Debug\net5.0\ExemploPilaresPOO.runtimeconfig.json
+C:\Users\Mieczyslawa Neufeld\Downloads\ExemploPOO\bin\Debug\net5.0\ExemploPilaresPOO.runtimeconfig.dev.json
+C:\Users\Mieczyslawa Neufeld\Downloads\ExemploPOO\bin\Debug\net5.0\ExemploPilaresPOO.dll
+C:\Users\Mieczyslawa Neufeld\Downloads\ExemploPOO\bin\Debug\net5.0\ExemploPilaresPOO.pdb
+C:\Users\Mieczyslawa Neufeld\Downloads\ExemploPOO\obj\Debug\net5.0\ExemploPilaresPOO.csproj.AssemblyReference.cache
+C:\Users\Mieczyslawa Neufeld\Downloads\ExemploPOO\obj\Debug\net5.0\ExemploPilaresPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mieczyslawa Neufeld\Downloads\ExemploPOO\obj\Debug\net5.0\ExemploPilaresPOO.AssemblyInfoInputs.cache
+C:\Users\Mieczyslawa Neufeld\Downloads\ExemploPOO\obj\Debug\net5.0\ExemploPilaresPOO.AssemblyInfo.cs
+C:\Users\Mieczyslawa Neufeld\Downloads\ExemploPOO\obj\Debug\net5.0\ExemploPilaresPOO.csproj.CoreCompileInputs.cache
+C:\Users\Mieczyslawa Neufeld\Downloads\ExemploPOO\obj\Debug\net5.0\ExemploPilaresPOO.dll
+C:\Users\Mieczyslawa Neufeld\Downloads\ExemploPOO\obj\Debug\net5.0\refint\ExemploPilaresPOO.dll
+C:\Users\Mieczyslawa Neufeld\Downloads\ExemploPOO\obj\Debug\net5.0\ExemploPilaresPOO.pdb
+C:\Users\Mieczyslawa Neufeld\Downloads\ExemploPOO\obj\Debug\net5.0\ExemploPilaresPOO.genruntimeconfig.cache
+C:\Users\Mieczyslawa Neufeld\Downloads\ExemploPOO\obj\Debug\net5.0\ref\ExemploPilaresPOO.dll
